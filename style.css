@@ -3,7 +3,7 @@
 }
 body{
 
-  background-image: url('imagenes/fondo-01.png');
+  background-image: url('imagenes/fondo1-01.png');
 }
 .logo{
     text-align: right;
@@ -21,20 +21,51 @@ body{
 .btnInicio{
   margin-top: 2%;
   text-align: center;
-}
 
+}
+.play{
+  background: transparent;
+  border:none;
+
+}
+.marco{
+  display: none;
+  text-align: center;
+  margin-top: -18%;
+}
 .content{
   display: none;
   text-align: center;
-  margin-top: -7%;
+  margin-top: -42%;
 }
 .img{
-  margin-left: 32%;
+  margin-left: 38%;
 
 }
 .frases{
 
 margin-left: 20%;
 padding-right:  20%;
+margin-top: 4%
 
+}
+.seeMore{
+ float: right;
+ margin-top: -30%;
+ margin-right: 5%;
+ background: transparent;
+ border:none;
+}
+.start{
+  background-color: #18c101;
+  width: 10%;
+  font-size: 30px;
+  border-radius: 35px;
+  font-family: 'Montserrat';
+  color: white;
+  border-color: green;
+  border-width: medium;
+}
+.inicio{
+  display: none;
 }

@@ -4,6 +4,7 @@
     <meta charset="utf-8">
     <html lang="ja"><html lang="ja"><head>
     <link rel="stylesheet" href="style.css">
+    <link href="https://fonts.googleapis.com/css?family=Montserrat" rel="stylesheet">
     <meta http-equiv="Content-Type" content="text/html; charset=Shift_JIS"><meta http-equiv="Content-Script-Type" content="text/javascript"><title>Slot</title>
 
     <title></title>
@@ -17,46 +18,54 @@
         <img src="imagenes/gif.gif" alt="Funny image" width="40%">
       </section>
       <section class="btnInicio" id='btnInicio'>
-          <button type="button" id="play" class="play">Jugar</button>
-          <button type="button" id="seeMore" class="seeMore">Ver Más</button>
+          <button type="button" id="play" class="play"><img src="imagenes/btnJUGAR.png" alt="" width="100%"></button>
+
       </section>
 
+        <div class="marco" id="marco">
+          <img src = "./imagenes/MARCO.png" name = "" width="38%" style="align-content: center">
 
+        </div>
           <div class="content" id="content">
               <div class="img">
 
                <table>
                  <tr>
-                    <td ><img src = "./cabeza/0.png" name = "up" width="100%" style="align-content: center"></td>
+                    <td ><img src = "./cabeza/0.png" name = "up" width="95%" style="align-content: center"></td>
                  </tr>
                </table>
                <table>
                  <tr>
-                   <td><img src = "./cuerpo/0.png" name = "center" width="100%"></td>
+                   <td><img src = "./cuerpo/0.png" name = "center" width="95%"></td>
                  </tr>
                </table>
                <table>
                  <tr>
-                   <td><img src = "./pies/0.png" name = "down" width="100%"></td>
+                   <td><img src = "./pies/0.png" name = "down" width="95%"></td>
                  </tr>
                </table>
+
+
              </div>
 
 
                <table class="frases">
                <tr>
-                 <td><img src = "./fcabeza/0.png" name = "left" width="100%" ></td>
-                 <td><img src = "./fcuerpo/0.png" name = "centerFrase" width="100%"></td>
-                 <td><img src = "./fpies/0.png" name = "right" width="100%"></td>
+                 <td><img src = "./fcabeza/0.png" name = "left" width="95%" ></td>
+                 <td><img src = "./fcuerpo/0.png" name = "centerFrase" width="95%"></td>
+                 <td><img src = "./fpies/0.png" name = "right" width="95%"></td>
                </tr>
              </table>
                <form action="#">
-                 <input type="button" value="Start" onclick=" slot();">
+                 <input class="start" type="button" value="TUTOPYA" onclick=" slot();">
+
+
+                 <button type="button" id="seeMore" class="seeMore"><img src="imagenes/btn-mas.png" alt="" width="100%"></button>
                 </form>
           </div>
-
+          <button type="button" id="inicio" class="inicio"><img src="imagenes/btn-inicio.png" alt="" width="100%"></button>
           <section class="personajes" id="personajes">
-            <img src="imagenes/gif.gif" alt="Funny image" width="70%" style="">
+            <img src="imagenes/Personajes-01.png" alt="" width="100%" style="">
           </section>
 
 
