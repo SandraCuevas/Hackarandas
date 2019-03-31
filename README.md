@@ -20,4 +20,4 @@ También creamos un espacio, donde los niños y sus tutores podrán encontrar m�
 
 
 # Demo.
-https://perlatovargarcia.github.io/hackarandas-Tutopia/hackatoon-CDMX/#
+https://perlatovargarcia.github.io/Hackarandas/
