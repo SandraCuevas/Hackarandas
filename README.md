@@ -1,9 +1,9 @@
-# hackarandas-Tutopia
+# hackarandas-Tutopya
 Hackatoon CDMX
 
 ![Tutopia](https://github.com/PerlaTovarGarcia/hackarandas-Tutopia/blob/master/hackatoon-CDMX/imagenes/logo.png)
 
-# Tutopia
+# Tutoyia
 Puedes llegar a ser lo que sueñas ser.
 Niños y niñas de 4 a 10 años de edad
 
