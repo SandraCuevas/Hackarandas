@@ -1,7 +1,7 @@
 # hackarandas-Tutopya
 Hackatoon CDMX
 
-![Tutopia](https://github.com/PerlaTovarGarcia/hackarandas-Tutopia/blob/master/hackatoon-CDMX/imagenes/logo.png)
+![Tutopya](https://github.com/PerlaTovarGarcia/hackarandas-Tutopia/blob/master/hackatoon-CDMX/imagenes/logo.png)
 
 # Tutopya
 Puedes llegar a ser lo que sueñas ser.
@@ -20,4 +20,4 @@ También creamos un espacio, donde los niños y sus tutores podrán encontrar m�
 
 
 # Demo.
-https://perlatovargarcia.github.io/Hackarandas/
+https://sandracuevas.github.io/tutopya/.
